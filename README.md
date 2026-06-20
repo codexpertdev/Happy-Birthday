@@ -37,6 +37,12 @@ Whether you're learning front-end development or looking for a creative project,
 * Mobile-friendly design
 * Easy personalization
 
+## 🌐 Live Demo
+
+🔗 https://codexpertdev.github.io/Happy-Birthday/
+
+Experience the project live in your browser.
+
 ## 🎥 Instagram Reel Demo
 
 Watch the complete project reel on Instagram:
